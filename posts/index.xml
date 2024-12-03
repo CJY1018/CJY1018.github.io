@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>CJY&#39;Log</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on CJY&#39;Log</description>
+    <title>Posts on CJY&#39;Log</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on CJY&#39;Log</description>
     <image>
       <title>CJY&#39;Log</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 03 Dec 2024 19:46:33 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
       <link>http://localhost:1313/posts/2024-12-03-hugo/</link>
@@ -37,20 +37,6 @@
       <guid>http://localhost:1313/posts/2024-11-20-whisper/</guid>
       <description>&lt;h2 id=&#34;robust-speech-recognition-via-large-scale-weak-supervision&#34;&gt;Robust Speech Recognition via Large-Scale Weak Supervision&lt;/h2&gt;
 &lt;p&gt;We study the capabilities of speech processing systems trained simply to predict large amounts of transcripts of audio on the internet. When scaled to 680,000 hours of multilingual and multitask supervision, the resulting models generalize well to standard benchmarks and are often competitive with prior fully supervised results but in a zeroshot transfer setting without the need for any finetuning. When compared to humans, the models approach their accuracy and robustness. We are releasing models and inference code to serve as a foundation for further work on robust speech processing.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>FAQ</title>
-      <link>http://localhost:1313/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/faq/</guid>
-      <description>FAQ</description>
-    </item>
-    <item>
-      <title>Space</title>
-      <link>http://localhost:1313/space/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/space/</guid>
-      <description>Space</description>
     </item>
   </channel>
 </rss>

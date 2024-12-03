@@ -2,19 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cjy1018.github.io/</loc>
-    <lastmod>2024-11-19T22:29:51+08:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-12-03T19:46:33+08:00</lastmod>
   </url><url>
-    <loc>https://cjy1018.github.io/archives/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2024-12-03T19:46:33+08:00</lastmod>
   </url><url>
-    <loc>https://cjy1018.github.io/categories/</loc>
+    <loc>http://localhost:1313/posts/2024-12-03-hugo/</loc>
+    <lastmod>2024-12-03T19:46:33+08:00</lastmod>
   </url><url>
-    <loc>https://cjy1018.github.io/faq/</loc>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-12-03T19:46:33+08:00</lastmod>
   </url><url>
-    <loc>https://cjy1018.github.io/search/</loc>
+    <loc>http://localhost:1313/tags/skill/</loc>
+    <lastmod>2024-12-03T19:46:33+08:00</lastmod>
   </url><url>
-    <loc>https://cjy1018.github.io/space/</loc>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-12-03T19:46:33+08:00</lastmod>
   </url><url>
-    <loc>https://cjy1018.github.io/tags/</loc>
+    <loc>http://localhost:1313/posts/2024-11-20-llama-omni/</loc>
+    <lastmod>2024-11-20T02:32:56+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/multi-modal/</loc>
+    <lastmod>2024-11-20T02:32:56+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/asr/</loc>
+    <lastmod>2024-11-20T02:05:17+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024-11-20-whisper/</loc>
+    <lastmod>2024-11-20T02:05:17+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archives/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/faq/</loc>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/space/</loc>
   </url>
 </urlset>
