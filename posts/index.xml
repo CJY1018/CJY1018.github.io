@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on CJY&#39;Log</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://cjy1018.github.io/posts/</link>
     <description>Recent content in Posts on CJY&#39;Log</description>
     <image>
       <title>CJY&#39;Log</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://cjy1018.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://cjy1018.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 03 Dec 2024 19:46:33 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cjy1018.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/posts/2024-12-03-hugo/</link>
+      <link>https://cjy1018.github.io/posts/2024-12-03-hugo/</link>
       <pubDate>Tue, 03 Dec 2024 19:46:33 +0800</pubDate>
-      <guid>http://localhost:1313/posts/2024-12-03-hugo/</guid>
+      <guid>https://cjy1018.github.io/posts/2024-12-03-hugo/</guid>
       <description>&lt;p&gt;Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.&lt;/p&gt;
 &lt;p&gt;Hugo is a static site generator written in Go, optimized for speed and designed for flexibility.&lt;/p&gt;
 &lt;p&gt;Hugo is a &lt;a href=&#34;https://en.wikipedia.org/wiki/Static_site_generator&#34;&gt;static site generator&lt;/a&gt; written in &lt;a href=&#34;https://go.dev/&#34;&gt;Go&lt;/a&gt;, optimized for speed and designed for flexibility. With its advanced templating system and fast asset pipelines, Hugo renders a complete site in seconds, often less.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Llama Omni</title>
-      <link>http://localhost:1313/posts/2024-11-20-llama-omni/</link>
+      <link>https://cjy1018.github.io/posts/2024-11-20-llama-omni/</link>
       <pubDate>Wed, 20 Nov 2024 02:32:56 +0800</pubDate>
-      <guid>http://localhost:1313/posts/2024-11-20-llama-omni/</guid>
+      <guid>https://cjy1018.github.io/posts/2024-11-20-llama-omni/</guid>
       <description>&lt;h2 id=&#34;llama-omni-seamless-speech-interaction--with-large-language-models&#34;&gt;LLAMA-OMNI: SEAMLESS SPEECH INTERACTION  WITH LARGE LANGUAGE MODELS&lt;/h2&gt;
 &lt;p&gt;Models like GPT-4o enable real-time interaction with large language models (LLMs) through speech, significantly enhancing user experience compared to traditional text-based interaction. However, there is still a lack of exploration on how to build speech interaction models based on open-source LLMs. To address this, we propose LLaMA-Omni, a novel model architecture designed for low-latency and high-quality speech interaction with LLMs. LLaMA-Omni integrates a pretrained speech encoder, a speech adaptor, an LLM, and a streaming speech decoder. It eliminates the need for speech transcription, and can simultaneously generate text and speech responses directly from speech instructions with extremely low latency. We build our model based on the latest Llama-3.1-8BInstruct model. To align the model with speech interaction scenarios, we construct a dataset named InstructS2S-200K, which includes 200K speech instructions and corresponding speech responses. Experimental results show that compared to previous speech-language models, LLaMA-Omni provides better responses in both content and style, with a response latency as low as 226ms. Additionally, training LLaMA-Omni takes less than 3 days on just 4 GPUs, paving the way for the efficient development of speech-language models in the future.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Whisper</title>
-      <link>http://localhost:1313/posts/2024-11-20-whisper/</link>
+      <link>https://cjy1018.github.io/posts/2024-11-20-whisper/</link>
       <pubDate>Wed, 20 Nov 2024 02:05:17 +0800</pubDate>
-      <guid>http://localhost:1313/posts/2024-11-20-whisper/</guid>
+      <guid>https://cjy1018.github.io/posts/2024-11-20-whisper/</guid>
       <description>&lt;h2 id=&#34;robust-speech-recognition-via-large-scale-weak-supervision&#34;&gt;Robust Speech Recognition via Large-Scale Weak Supervision&lt;/h2&gt;
 &lt;p&gt;We study the capabilities of speech processing systems trained simply to predict large amounts of transcripts of audio on the internet. When scaled to 680,000 hours of multilingual and multitask supervision, the resulting models generalize well to standard benchmarks and are often competitive with prior fully supervised results but in a zeroshot transfer setting without the need for any finetuning. When compared to humans, the models approach their accuracy and robustness. We are releasing models and inference code to serve as a foundation for further work on robust speech processing.&lt;/p&gt;</description>
     </item>
