@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Skill on CJY&#39;Log</title>
-    <link>https://cjy1018.github.io/tags/skill/</link>
-    <description>Recent content in Skill on CJY&#39;Log</description>
+    <title>Docker on CJY&#39;Log</title>
+    <link>https://cjy1018.github.io/tags/docker/</link>
+    <description>Recent content in Docker on CJY&#39;Log</description>
     <image>
       <title>CJY&#39;Log</title>
       <url>https://cjy1018.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 04 Dec 2024 12:38:14 +0800</lastBuildDate>
-    <atom:link href="https://cjy1018.github.io/tags/skill/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cjy1018.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker New Student</title>
       <link>https://cjy1018.github.io/posts/2024-12-04-docker-new-student/</link>
@@ -20,15 +20,6 @@
       <guid>https://cjy1018.github.io/posts/2024-12-04-docker-new-student/</guid>
       <description>&lt;p&gt;This note details the process of creating and configuring a development environment with CUDA support using Docker, from initializing the container and installing the necessary packages such as vim, nano, git, openssh-server, etc., to configuring SSH to allow root to log in and set the root password, and configuring the nvcc environment variable for the user to ensure that the CUDA toolchain is available.&lt;/p&gt;
 &lt;p&gt;It also describes how to clear the command history to maintain privacy and save the configured container as a new image version (4.0).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hugo</title>
-      <link>https://cjy1018.github.io/posts/2024-12-03-hugo/</link>
-      <pubDate>Tue, 03 Dec 2024 19:46:33 +0800</pubDate>
-      <guid>https://cjy1018.github.io/posts/2024-12-03-hugo/</guid>
-      <description>&lt;p&gt;Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.&lt;/p&gt;
-&lt;p&gt;Hugo is a static site generator written in Go, optimized for speed and designed for flexibility.&lt;/p&gt;
-&lt;p&gt;Hugo is a &lt;a href=&#34;https://en.wikipedia.org/wiki/Static_site_generator&#34;&gt;static site generator&lt;/a&gt; written in &lt;a href=&#34;https://go.dev/&#34;&gt;Go&lt;/a&gt;, optimized for speed and designed for flexibility. With its advanced templating system and fast asset pipelines, Hugo renders a complete site in seconds, often less.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
